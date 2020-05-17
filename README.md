@@ -21,7 +21,7 @@ $pip2 install lolcat
 
 $pkg install git 
 
-$git clone https://github.com/Stephin-Franklin/T-Installer 
+$git clone  https://github.com/taha-source/T-Installer.git
 
 
 
