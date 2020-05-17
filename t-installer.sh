@@ -28,10 +28,10 @@ figlet T-INSTALLER  | lolcat
 echo  "       +=======================================+" |lolcat
 echo  "       |..........Tool Installer v1.0 .........|" |lolcat
 echo  "       +---------------------------------------+" |lolcat
-echo  "       |#Author   : Stephin-Franklin           |" |lolcat
-echo  "       |#Instagram: st1chb45h                  |" |lolcat
-echo  "       |#Github   : Stephin-Franklin           |" |lolcat
-echo  "       |#YouTube  : Anonymous Tim3             |" |lolcat
+echo  "       |#Author   : taha painter               |" |lolcat
+echo  "       |#Instagram: private                    |" |lolcat
+echo  "       |#Github   : source-taha                |" |lolcat
+echo  "       |#YouTube  : spider central             |" |lolcat
 echo  "       |     SUBSCRIBE OUR YOUTUBE CHANNEL     |" |lolcat
 echo  "       |                                       |" |lolcat
 echo  "       +=======================================+" |lolcat
