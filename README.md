@@ -19,9 +19,9 @@ $pkg install php
 
 $pip2 install lolcat 
 
-$pkg install git 
+$pkg install git https://github.com/taha-source/T-Installer.git
 
-$git clone https://github.com/Stephin-Franklin/T-Installer 
+$git clone  
 
 
 
